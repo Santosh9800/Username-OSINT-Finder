@@ -45,3 +45,8 @@ python information.py
 3. Add your actual GitHub username and email where marked
 
 If you want me to **create a zip folder** with `README.md`, script, and `requirements.txt`, I can do that too. Just say the word!
+
+<p align="center">
+  <b>Multi-Social Platform Username Scanner</b><br>
+  <i>By <a href="https://github.com/yourusername">Santosh Chhetri</a> | Channel: Master in White Devil</i>
+</p>
