@@ -45,6 +45,18 @@ python information.py
 3. Add your actual GitHub username and email where marked
 
 If you want me to **create a zip folder** with `README.md`, script, and `requirements.txt`, I can do that too. Just say the word!
+<br> 
+## 💰 Support my work
+
+If you liked this tool and want me to keep making more ethical tools like this:
+
+- [☕ Donate on BuyMeACoffee](https://buymeacoffee.com/santoshchhetri)
+
+- [💻 Join on Patreon](https://patreon.com/santoshchhetri)
+
+- [💸 Donate with PayPal](https://paypal.me/santoshchhetri)
+
+Your support will motivate me to make more legal ethical hacking tools!
 <br><br>
 <p align="center">
   <b>Multi-Social Platform Username Scanner</b><br>
