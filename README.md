@@ -33,3 +33,19 @@ Make sure Python 3 is installed. Then follow these steps:
 ```bash
 git clone https://github.com/yourusername/username-osint-finder.git
 cd username-osint-finder
+pip install requests pyfiglet termcolor
+
+███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗
+██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗██╔════╝
+█████╗  ███████║██╔██╗ ██║   ██║   ██║   ██║███████╗
+██╔══╝  ██╔══██║██║╚██╗██║   ██║   ██║   ██║╚════██║
+███████╗██║  ██║██║ ╚████║   ██║   ╚██████╔╝███████║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚══════╝
+
+== Channel Master in White Devil ==
+
+Enter username to search: santosh32100
+
+[+] Found on Facebook: https://facebook.com/santosh32100
+[-] Not found on TikTok
+[!] Error accessing Reddit: Timeout
