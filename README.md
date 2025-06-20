@@ -36,7 +36,7 @@ cd username-osint-finder
 pip install requests pyfiglet termcolor
 python information.py
 
-
+```
 ---
 
 ✅ **Next Steps for You:**
