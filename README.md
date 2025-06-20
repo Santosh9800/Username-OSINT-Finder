@@ -34,20 +34,14 @@ Make sure Python 3 is installed. Then follow these steps:
 git clone https://github.com/yourusername/username-osint-finder.git
 cd username-osint-finder
 pip install requests pyfiglet termcolor
+python information.py
 
-███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗
-██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗██╔════╝
-█████╗  ███████║██╔██╗ ██║   ██║   ██║   ██║███████╗
-██╔══╝  ██╔══██║██║╚██╗██║   ██║   ██║   ██║╚════██║
-███████╗██║  ██║██║ ╚████║   ██║   ╚██████╔╝███████║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚══════╝
 
-== Channel Master in White Devil ==
+---
 
-Enter username to search: santosh32100
+✅ **Next Steps for You:**
+1. Rename `information.py` → something like `osint-finder.py` (optional)
+2. Create a `README.md` in the repo and paste the above content
+3. Add your actual GitHub username and email where marked
 
-[+] Found on Facebook: https://facebook.com/santosh32100
-[-] Not found on TikTok
-[!] Error accessing Reddit: Timeout
-
-```
+If you want me to **create a zip folder** with `README.md`, script, and `requirements.txt`, I can do that too. Just say the word!
