@@ -21,3 +21,15 @@ Use it to find a person’s digital footprint in seconds — fast, reliable, and
 
 ## 📦 Supported Platforms
 
+
+---
+
+## 🛠️ Installation
+
+Make sure Python 3 is installed. Then follow these steps:
+
+### 🔹 Clone the repository
+
+```bash
+git clone https://github.com/yourusername/username-osint-finder.git
+cd username-osint-finder
