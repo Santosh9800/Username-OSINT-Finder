@@ -44,7 +44,6 @@ python information.py
 2. Create a `README.md` in the repo and paste the above content
 3. Add your actual GitHub username and email where marked
 
-If you want me to **create a zip folder** with `README.md`, script, and `requirements.txt`, I can do that too. Just say the word!
 <br> 
 ## 💰 Support my work
 
